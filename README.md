@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&height=120&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self++Taught++Web+developer;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
 
----
 
 ## 🚀 Skills & Tools
 
@@ -28,12 +27,10 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
 
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -44,7 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=react-dark"/>
 </p>
 
----
 
 ## 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/username
