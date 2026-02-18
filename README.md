@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self+Taught++Web+developer;Quick+fox+jumps+nightly+above+wizard;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
 
+
+
+
 ## 🚀 Skills & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
