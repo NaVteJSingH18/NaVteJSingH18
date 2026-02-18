@@ -33,6 +33,13 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+---
+
+## 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaVteJSingH18&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaVteJSingH18&theme=radical)
 
