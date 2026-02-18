@@ -1,10 +1,4 @@
-# Navtej-Singh
-
-[<h1 align="center">Hi 👋, I'm Navtej Singh</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>](https://readme-typing-svg.demolab.com/demo/?center=true&vCenter=true&multiline=true&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self+Taught++Web+developer;Quick+fox+jumps+nightly+above+wizard;based+in+Hoshiarpur%2CPunjab+Area)
-
----
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self+Taught++Web+developer;Quick+fox+jumps+nightly+above+wizard;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
 ## 🚀 Skills & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
