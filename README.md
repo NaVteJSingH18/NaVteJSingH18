@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&repeat=false&width=435&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self++Taught++Web+developer;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self++Taught++Web+developer;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
 
 
 ## 🚀 Skills & Tools
