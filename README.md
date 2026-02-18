@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=Hi%2C+I'm+Navtej+Singh!;Self-Taught+Web+Developer;Based+in+Hoshiarpur%2C+Punjab" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Hi+%2CI'm+Navtej+Singh+!++;A+Self++Taught++Web+developer;based+in+Hoshiarpur%2CPunjab+Area)](https://git.io/typing-svg)
 
 ---
 
