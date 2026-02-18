@@ -29,7 +29,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
 
 ## 💬 Random Dev Quote
 
@@ -39,9 +38,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaVteJSingH18&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaVteJSingH18&theme=radical)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=radical)
 
 
 ### Connect With Me
-[LinkedIn](https://linkedin.com/in/username)  
-[Portfolio](https://yourportfolio.com)
