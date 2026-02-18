@@ -38,7 +38,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaVteJSingH18&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaVteJSingH18&theme=radical)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=react-dark)
 
 
 ### Connect With Me
