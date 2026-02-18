@@ -36,7 +36,7 @@
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaVteJSingH18&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaVteJSingH18&theme=radical)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaVteJSingH18&theme=react-dark)
