@@ -5,6 +5,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
