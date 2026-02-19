@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=NaVteJSingH18&color=blue)
 
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FNaVteJSingH1864af9.png?alt=media)
 
