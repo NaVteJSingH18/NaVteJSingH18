@@ -49,5 +49,5 @@
 
 
 ## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/NavtejSingh
+- LinkedIn: https://linkedin.com/in/navtejsingh
 - Portfolio: https://yourportfolio.com
